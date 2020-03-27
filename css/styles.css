@@ -161,3 +161,16 @@ p{
   .pricing-column{
     padding: 2%;
   }
+
+  /* Media Query */
+
+  @media (max-width:990px){
+    .title-col{
+      text-align: center;
+    }
+    .title-image{
+      width: 30%;
+      position: static;
+      transform: rotate(0);
+    }
+  }
