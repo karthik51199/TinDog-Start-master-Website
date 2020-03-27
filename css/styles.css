@@ -162,6 +162,32 @@ p{
     padding: 2%;
   }
 
+  /* CTA section   */
+  #cta{
+      background-color: #ff4c68;
+      padding: 7% 15% 5%;
+      text-align: center;
+    }
+
+  #cta h3{
+      color: #fff;
+      font-family: 'Montserrat';
+      font-weight: 900;
+      font-size: 3.5rem;
+      line-height: 1.5;
+    }
+
+  /* Footer */
+  #footer{
+    text-align: center;
+    padding: 3%;
+  }
+
+  .footer-fa{
+    margin:20px;
+    margin-bottom: 40px;
+  }
+
   /* Media Query */
 
   @media (max-width:990px){
